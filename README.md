@@ -1,6 +1,6 @@
 ABOUT
 
-![screenshot](https://raw.githubusercontent.com/tdwsl/stickman-test/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/tdwsl/stickman-test/main/screenshot.png)
 
 This is a simple program that draws a stickman on the
 screen. This stickman is built up of joints and behaves
